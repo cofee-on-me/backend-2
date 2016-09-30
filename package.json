@@ -1,0 +1,27 @@
+{
+  "name": "backend-2",
+  "version": "1.0.0",
+  "description": "HAPI project",
+  "main": "index.js",
+  "dependencies": {
+    "good": "^7.0.2",
+    "good-console": "^6.1.2",
+    "good-squeeze": "^5.0.0",
+    "hapi": "^15.1.1",
+    "hapi-status": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cofee-on-me/backend-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cofee-on-me/backend-2/issues"
+  },
+  "homepage": "https://github.com/cofee-on-me/backend-2#readme"
+}
